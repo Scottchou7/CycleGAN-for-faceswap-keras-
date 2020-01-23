@@ -1,0 +1,7 @@
+numpy
+PIL
+dlib
+matplotlib
+cv2
+tensorflow==1.8.0
+keras==2.2.4
