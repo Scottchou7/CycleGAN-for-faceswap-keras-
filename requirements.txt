@@ -3,5 +3,5 @@ PIL
 dlib
 matplotlib
 cv2
-tensorflow==2.5.3
+tensorflow==2.9.3
 keras==2.2.4
